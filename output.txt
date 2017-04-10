@@ -1,0 +1,4 @@
+युवकों/NN को/PSP अपने/PRP पैरों/NN पर/PSP खड़े/NN होने/VM पर/PSP ही/RP विवाह/NN करना/VM चाहिए/VAUX ।/SYM 
+सौतन/NN को/PSP सामने/NST देख/VM वह/PRP अंगारों/NN पर/PSP लोटने/VM लगी/VAUX ।/SYM 
+जरूरतमंद/JJ हर/QF किसी/PRP के/PSP आगे/NST अंचल/NN पसारता/VM है/VAUX ।/SYM 
+दस/QC किलोमिटर/NN चलते/VM ही/RP उसके/PRP तो/RP अंजर/JJ पंजर/NN ढीले/JJ हो/VM गए/VAUX ।/SYM 

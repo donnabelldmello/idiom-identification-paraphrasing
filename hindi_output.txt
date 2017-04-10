@@ -1,0 +1,4 @@
+युवकों Unk को PREP अपने PRP पैरों Unk पर PREP खड़े Unk होने VNN पर PREP ही RP विवाह NN करना VFM चाहिए VAUX । PUNC 
+सौतन Unk को PREP सामने NLOC देख Unk वह PRP अंगारों Unk पर PREP लोटने Unk लगी VFM । PUNC 
+जरूरतमंद Unk हर QF किसी QW के PREP आगे NLOC अंचल Unk पसारता Unk है VAUX । PUNC 
+दस QFNUM किलोमिटर Unk चलते PREP ही RP उसके PRP तो RP अंजर Unk पंजर Unk ढीले Unk हो VFM गए VAUX । PUNC 
