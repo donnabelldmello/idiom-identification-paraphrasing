@@ -16,3 +16,7 @@ Hindi Corpus (If using this corpus please cite)-
 Bojar, Ondřej; Diatka, Vojtěch; Rychlý, Pavel; et al., 2014, 
   HindMonoCorp 0.5, LINDAT/CLARIN digital library at the Institute of Formal and Applied Linguistics, Charles University, 
   http://hdl.handle.net/11858/00-097C-0000-0023-6260-A.
+
+# idiom-substitution and post editing
+# dependency tree output 
+*identify_dependencies.py - This file gives dependency tree as output with all the information about every word of a sentence.
